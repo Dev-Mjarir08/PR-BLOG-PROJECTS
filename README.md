@@ -1,8 +1,5 @@
 # PR-BLOG-PROJECTS
 
-<title>PR Blog Project</title>
-
-<style>
 
 body{
 font-family: Arial, Helvetica, sans-serif;
@@ -162,17 +159,17 @@ The project demonstrates backend development concepts such as authentication, ro
 </div>
 
 <div>
-<img src="https://cdn-icons-png.flaticon.com/512/919/919825.png">
+<img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width = "300px">
 <p>Express.js</p>
 </div>
 
 <div>
-<img src="https://cdn-icons-png.flaticon.com/512/919/919836.png">
+<img src="https://cdn-icons-png.flaticon.com/512/919/919836.png"  width = "300px">
 <p>MongoDB</p>
 </div>
 
 <div>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"  width = "300px">
 <p>JavaScript</p>
 </div>
 
