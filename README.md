@@ -10,14 +10,16 @@ that allows users to create, manage, and publish blogs with image uploads.
 </p>
 
 <br/>
+<img width="1890" height="977" alt="Screenshot 2026-03-11 114947" src="https://github.com/user-attachments/assets/607bc3b4-1f75-4727-813c-3d8c7a2af74c" />
 
-<img src="https://img.shields.io/badge/Node.js-18+-green?logo=node.js"/>
-<img src="https://img.shields.io/badge/Express.js-Framework-black?logo=express"/>
-<img src="https://img.shields.io/badge/MongoDB-Database-green?logo=mongodb"/>
-<img src="https://img.shields.io/badge/Mongoose-ODM-red?logo=mongoose"/>
-<img src="https://img.shields.io/badge/EJS-Template-yellow?logo=ejs"/>
-<img src="https://img.shields.io/badge/Status-Active-success"/>
-<img src="https://img.shields.io/badge/License-MIT-blue"/>
+
+<img width="1919" height="983" alt="Screenshot 2026-03-11 114957" src="https://github.com/user-attachments/assets/80b6d0bc-fc85-42ab-94f0-44e227ef0268" />
+
+<img width="1894" height="975" alt="Screenshot 2026-03-11 115924" src="https://github.com/user-attachments/assets/0f9963be-0d95-402a-8fb6-e1866816eef2" />
+
+<img width="1894" height="975" alt="Screenshot 2026-03-11 115924" src="https://github.com/user-attachments/assets/e62242a2-e640-4784-8a5a-26b6489d3823" />
+
+<img width="1906" height="976" alt="Screenshot 2026-03-11 115947" src="https://github.com/user-attachments/assets/d4284805-d4c1-4bed-b410-5473061db2ad" />
 
 <br/>
 
