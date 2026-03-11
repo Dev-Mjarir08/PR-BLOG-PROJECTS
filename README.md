@@ -1,9 +1,5 @@
 # PR-BLOG-PROJECTS
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
 <title>PR Blog Project</title>
 
 <style>
