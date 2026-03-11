@@ -4,6 +4,12 @@
 
 ### 🚀 Full Stack Blog Management Web Application
 
+### 🌐 Live Demo
+
+👉 https://pr-blog-projects.onrender.com
+
+</div>
+
 <p>
 A modern blog platform built with <b>Node.js, Express.js, MongoDB, and EJS</b>  
 that allows users to create, manage, and publish blogs with image uploads.
@@ -23,11 +29,7 @@ that allows users to create, manage, and publish blogs with image uploads.
 
 <br/>
 
-### 🌐 Live Demo
 
-👉 https://pr-blog-projects.onrender.com
-
-</div>
 
 ---
 
