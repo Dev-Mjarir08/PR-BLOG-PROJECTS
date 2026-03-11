@@ -1,268 +1,254 @@
-# PR-BLOG-PROJECTS
+<div align="center">
 
+# 📝 PR-BLOG-PROJECT
 
-body{
-font-family: Arial, Helvetica, sans-serif;
-margin:0;
-background:#f5f7fb;
-color:#333;
-}
-
-.container{
-width:90%;
-max-width:1200px;
-margin:auto;
-}
-
-header{
-text-align:center;
-padding:60px 20px;
-background:#0f172a;
-color:white;
-}
-
-header h1{
-font-size:40px;
-margin-bottom:10px;
-}
-
-header p{
-font-size:18px;
-opacity:.9;
-}
-
-.badges img{
-margin:5px;
-}
-
-.section{
-padding:60px 0;
-}
-
-.section h2{
-text-align:center;
-margin-bottom:40px;
-font-size:30px;
-}
-
-.tech{
-display:flex;
-justify-content:center;
-gap:40px;
-flex-wrap:wrap;
-}
-
-.tech div{
-text-align:center;
-}
-
-.tech img{
-width:60px;
-margin-bottom:10px;
-}
-
-.features{
-display:grid;
-grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
-gap:20px;
-}
-
-.card{
-background:white;
-padding:25px;
-border-radius:10px;
-box-shadow:0 5px 15px rgba(0,0,0,0.1);
-}
-
-.preview{
-display:grid;
-grid-template-columns:repeat(auto-fit,minmax(400px,1fr));
-gap:25px;
-}
-
-.preview img{
-width:100%;
-border-radius:10px;
-box-shadow:0 5px 15px rgba(0,0,0,0.1);
-}
-
-.install{
-background:#0f172a;
-color:white;
-padding:40px;
-border-radius:10px;
-}
-
-.install pre{
-background:black;
-padding:15px;
-overflow:auto;
-}
-
-footer{
-text-align:center;
-padding:40px;
-font-size:14px;
-}
-
-</style>
-
-</head>
-<body>
-
-<header>
-
-<h1>PR Blog Platform</h1>
+### 🚀 Full Stack Blog Management Web Application
 
 <p>
-A full stack blogging platform built using Node.js, Express, MongoDB and EJS.
+A modern blog platform built with <b>Node.js, Express.js, MongoDB, and EJS</b>  
+that allows users to create, manage, and publish blogs with image uploads.
 </p>
 
-<div class="badges">
+<br/>
 
-<img src="https://img.shields.io/badge/Node.js-Backend-green">
+<img src="https://img.shields.io/badge/Node.js-18+-green?logo=node.js"/>
+<img src="https://img.shields.io/badge/Express.js-Framework-black?logo=express"/>
+<img src="https://img.shields.io/badge/MongoDB-Database-green?logo=mongodb"/>
+<img src="https://img.shields.io/badge/Mongoose-ODM-red?logo=mongoose"/>
+<img src="https://img.shields.io/badge/EJS-Template-yellow?logo=ejs"/>
+<img src="https://img.shields.io/badge/Status-Active-success"/>
+<img src="https://img.shields.io/badge/License-MIT-blue"/>
 
-<img src="https://img.shields.io/badge/Express.js-Framework-black">
+<br/>
 
-<img src="https://img.shields.io/badge/MongoDB-Database-green">
+### 🌐 Live Demo
 
-<img src="https://img.shields.io/badge/EJS-Template-orange">
-
-</div>
-
-</header>
-
-
-<div class="container">
-
-<section class="section">
-
-<h2>About Project</h2>
-
-<p style="text-align:center;max-width:700px;margin:auto">
-PR Blog Project is a full stack blog application where users can register, login, create blog posts and upload images. 
-The project demonstrates backend development concepts such as authentication, routing, database operations and MVC architecture.
-</p>
-
-</section>
-
-
-<section class="section">
-
-<h2>Tech Stack</h2>
-
-<div class="tech">
-
-<div>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png">
-<p>Node.js</p>
-</div>
-
-<div>
-<img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width = "300px">
-<p>Express.js</p>
-</div>
-
-<div>
-<img src="https://cdn-icons-png.flaticon.com/512/919/919836.png"  width = "300px">
-<p>MongoDB</p>
-</div>
-
-<div>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"  width = "300px">
-<p>JavaScript</p>
-</div>
+👉 https://pr-blog-projects.onrender.com
 
 </div>
 
-</section>
+---
 
+# 📸 Project Preview
 
-<section class="section">
+<div align="center">
 
-<h2>Features</h2>
-
-<div class="features">
-
-<div class="card">
-<h3>User Authentication</h3>
-<p>Users can register and login securely.</p>
-</div>
-
-<div class="card">
-<h3>Create Blog</h3>
-<p>Create and publish blog posts easily.</p>
-</div>
-
-<div class="card">
-<h3>Image Upload</h3>
-<p>Upload blog images using Multer middleware.</p>
-</div>
-
-<div class="card">
-<h3>Dynamic Pages</h3>
-<p>Blogs are dynamically rendered using EJS templates.</p>
-</div>
+<img src="https://github.com/user-attachments/assets/blog-preview1" width="80%" style="border-radius:12px"/>
+<img src="https://github.com/user-attachments/assets/blog-preview2" width="80%" style="border-radius:12px"/>
+<img src="https://github.com/user-attachments/assets/blog-preview3" width="80%" style="border-radius:12px"/>
+<img src="https://github.com/user-attachments/assets/blog-preview4" width="80%" style="border-radius:12px"/>
 
 </div>
 
-</section>
+---
 
+# 📌 Project Overview
 
-<section class="section">
+**PR-BLOG-PROJECT** is a full-stack blog management system where users can:
 
-<h2>Project Preview</h2>
+* Create blog posts
+* Upload blog images
+* Edit and delete blogs
+* View blogs dynamically
 
-<div class="preview">
+The application is built using the **MVC architecture pattern**, ensuring maintainable and scalable code.
 
-<img src="images/home.png" alt="Home Page">
+---
 
-<img src="images/blog.png" alt="Blog Page">
+# 🏗 Architecture
 
-<img src="images/create-blog.png" alt="Create Blog">
+The project follows the **MVC pattern**.
 
-<img src="images/dashboard.png" alt="Dashboard">
+| Layer      | Description                      |
+| ---------- | -------------------------------- |
+| Model      | MongoDB schema definitions       |
+| View       | EJS templates                    |
+| Controller | Business logic                   |
+| Router     | Application routes               |
+| Middleware | File upload & request processing |
 
-</div>
+---
 
-</section>
+# 🛠 Tech Stack
 
+| Technology       | Purpose               |
+| ---------------- | --------------------- |
+| 🟢 Node.js       | Runtime Environment   |
+| ⚫ Express.js     | Backend Framework     |
+| 🟢 MongoDB       | Database              |
+| 🔴 Mongoose      | ODM                   |
+| 🟡 EJS           | Template Engine       |
+| 📤 Multer        | Image Upload          |
+| 🔐 Cookie Parser | Authentication        |
+| 🔧 Dotenv        | Environment Variables |
 
-<section class="section">
+---
 
-<h2>Installation</h2>
+# 📁 Project Structure
 
-<div class="install">
+```
+PR-BLOG-PROJECT/
+│
+├── config/          # Database connection
+├── controllers/     # Application logic
+├── middlewares/     # Upload & auth middleware
+├── models/          # Mongoose schemas
+├── routes/          # Express routes
+├── public/          # Static assets
+├── uploads/         # Uploaded blog images
+│
+├── views/
+│   ├── pages/
+│   └── partials/
+│
+├── index.js
+├── package.json
+└── .env.example
+```
 
-<pre>
-git clone https://github.com/Dev-Mjarir08/PR-BLOG-PROJECTS.git
+---
 
-cd PR-BLOG-PROJECTS
+# 🎯 Features
 
+✔ User Authentication (Login / Register)
+✔ Create Blog Posts
+✔ Upload Blog Images
+✔ Edit Blog Posts
+✔ Delete Blog Posts
+✔ View All Blogs
+✔ View Single Blog
+✔ MongoDB Integration
+✔ MVC Architecture
+✔ Dynamic EJS Rendering
+
+---
+
+# 🗃 Database Schema
+
+```
+{
+  title: String,
+  content: String,
+  excerpt: String,
+  image: String,
+  tags: [String],
+  createdAt: Date
+}
+```
+
+---
+
+# 🔗 Application Routes
+
+| Method | Route             | Description    |
+| ------ | ----------------- | -------------- |
+| GET    | `/`               | Home page      |
+| GET    | `/login`          | Login page     |
+| POST   | `/login`          | Login user     |
+| GET    | `/register`       | Register page  |
+| POST   | `/register`       | Register user  |
+| GET    | `/dashboard`      | User dashboard |
+| POST   | `/createBlog`     | Create blog    |
+| GET    | `/blogPage/:id`   | View blog      |
+| GET    | `/editBlog/:id`   | Edit blog      |
+| POST   | `/updateBlog/:id` | Update blog    |
+| GET    | `/deleteBlog/:id` | Delete blog    |
+
+---
+
+# ⚙ Installation Guide
+
+## 1️⃣ Clone Repository
+
+```
+git clone https://github.com/Dev-Mjarir08/PR-Blog-Project.git
+cd PR-Blog-Project
+```
+
+---
+
+## 2️⃣ Install Dependencies
+
+```
 npm install
+```
 
+---
+
+## 3️⃣ Configure Environment Variables
+
+Create `.env` file
+
+```
+PORT=8081
+MONGO_URL=mongodb://localhost:27017/blogdb
+```
+
+---
+
+## 4️⃣ Run Application
+
+Development:
+
+```
+npm run dev
+```
+
+Production:
+
+```
 npm start
-</pre>
+```
 
-</div>
+Server runs at:
 
-</section>
+```
+http://localhost:8081
+```
 
+---
 
-</div>
+# 📦 Available Scripts
 
+```
+"scripts": {
+  "start": "node index.js",
+  "dev": "nodemon index.js"
+}
+```
 
-<footer>
+---
 
-<p>
-Created by <b>Jarir Multani</b>
-</p>
+# 🚀 Deployment
 
-<p>
-GitHub : github.com/Dev-Mjarir08
-</p>
+The project is deployed on **Render**.
 
-</footer>
+Live Link:
 
-</body>
-</html>
+https://pr-blog-projects.onrender.com
+
+---
+
+# ✨ Key Highlights
+
+✔ Clean MVC architecture
+✔ Organized folder structure
+✔ Image upload management
+✔ MongoDB database integration
+✔ Static assets handling
+✔ Production deployment ready
+
+---
+
+# 👨‍💻 Author
+
+**Jarir Multani**
+
+GitHub
+https://github.com/Dev-Mjarir08
+
+---
+
+# 📜 License
+
+MIT License
